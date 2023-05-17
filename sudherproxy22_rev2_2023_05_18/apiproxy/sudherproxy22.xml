@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="sudherproxy22">
+    <Basepaths>/sudherproxy22</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1684402219093</CreatedAt>
+    <CreatedBy>tricksintrades@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>sudherproxy22</DisplayName>
+    <LastModifiedAt>1684402219093</LastModifiedAt>
+    <LastModifiedBy>tricksintrades@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:788f9ff71045afa68bf60993ad2b1ac9ea8f6e92284cf8b0c630c0637bde0a1d7c5e161d57a01e083ca5d8d9e1ab0ac0194fbc3b120e3797b0d2accb26e5bfec:eu-west-1</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Service-Callout-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
